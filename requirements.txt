@@ -1,5 +1,6 @@
+voila
 ipywidgets
 plotly
 numpy
-voila
+
 
