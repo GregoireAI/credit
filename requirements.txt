@@ -1,6 +1,7 @@
 voila
-ipywidgets
-plotly
-numpy
+ipywidgets>=7.6
+plotly>=4.14
+numpy>=1.19
+
 
 
